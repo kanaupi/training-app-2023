@@ -6,10 +6,10 @@ import (
 )
 
 var HostName = "127.0.0.1"
-var Port = 9000
-var CorsAllowOrigin = "http://localhost:3000"
+var Port = 9001
+var CorsAllowOrigin = "http://localhost:3001"
 var DBHostName = "db"
-var DBPort = 3306
+var DBPort = 3307
 var DBName = "training"
 
 func init() {
